@@ -25,7 +25,7 @@ The analysis focuses on centrality metrics to evaluate the importance of selecte
 books/  
 NetworkX_Character_Influence_Book_Series.ipynb  
 README.md  
-requirements.txt (optional)
+requirements.txt
 
 ## 🚀 How to Use
 
