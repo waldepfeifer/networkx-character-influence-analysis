@@ -1,4 +1,3 @@
-# NetworkX Character Influence Book Series Analysis
 <img width="1299" alt="image" src="https://github.com/user-attachments/assets/0f4a083b-1869-4984-9c60-ae59a1c39e6c" />
 
 ## 📖 Project Overview
